@@ -3,3 +3,5 @@ hello guys
 I am writing a code
 
 I am updating my code
+
+I am now using git
